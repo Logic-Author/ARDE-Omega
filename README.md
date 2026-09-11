@@ -1,6 +1,6 @@
 ARDE-Ω: Absolute Recursive Definition Engine
 
-Copyright © 2026 YourGitHubUsername
+Copyright © 2026 Logic-Author
 
 This work is licensed under the
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
