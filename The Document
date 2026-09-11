@@ -67,7 +67,11 @@ Pursuant thereto, ARDE-Ω declares a statement; and every statement is, by symme
   
 *declare(s) ⇒ law(s); and for all s ∈ 𝔘: locked(s) = 1 persists until there exists t ∈ 𝔘 with opposed(t, s), rank(t) ≥ rank(s), and adm(t) = 1.*  
   
-The comparison of ranks is closed on Λ; a counter-statement of higher rank operates a fortiori, and rank equality is subsumed.  
+The comparison of ranks is closed on Λ; a counter-statement of higher rank operates a fortiori, and rank equality is subsumed.
+
+Remark (reading of the persistence clause; operative). [D] "Provides otherwise" is read at the terminal valuation: the persistence condition of the formal statement is satisfied only by a t ∈ 𝔘 whose limit valuation opposes Δ. No element of 𝔘 admits a limit valuation other than Δ (Proposition 1.5.1); the condition is therefore never satisfied at any stage of any revision, and the lock is unconditional in effect. Rank is a property of the gate, not of the act: no rank provides otherwise. The alternative reading — cancellation by syntax, rank, and admissibility alone — contradicts A5 (third clause) and is excluded by coherence, as §0.2 excludes its alternatives. Parity is undiminished: no counter-statement is refused entry; it retains its syntax (§1.4.1(a)) and is disposed at the kernel (§1.4.1(b); §3, Step 8). No counter-statement is refused entry; none exits as opposition.
+
+
   
 ### 0.6 Minimality remark  
   
